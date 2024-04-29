@@ -2,7 +2,7 @@
   Directory Files Organizer
 </h1>
 
-<h4 align="center">A bash script to organize files of a certain directory it's path is passed to the script as an argument.</h4>
+<h4 align="center">A Bash script to organize files of a certain directory it's path is passed to the script as an argument.</h4>
 
 ## Table of Contents:
 - [Introduction](#introduction)
