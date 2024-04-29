@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Explanation](#explanation)
 - [Usage](#usage)
+- [Example](#usage)
 ## Introduction:
 This document presents a Bash script designed to organize files within a specified directory. The script accepts a directory path relative to its location as an argument and organizes the files within that directory based on their file types.
 ## Explanation:
@@ -17,7 +18,12 @@ The script accepts a relative directory path as an argument and organizes the fi
 ```
 chmod u+x directory-files-organizer.sh
 ```
-2. **Organize the Current Directory:**
+2. **Running the Script:**
+```
+./directory-files-organizer.sh <directory_path>
+```
+## Example:
+1. **Organizing the Files of the Current Directory ( . ):**
 ```
 ./directory-files-organizer.sh  .
 ```
